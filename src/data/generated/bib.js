@@ -13,5 +13,21 @@
         "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
         "volume": "22",
         "year": "2016"
+    },
+    "Chen2024Fast": {
+    "abstract": "Employee scheduling is a complex optimization problem that requires balancing organizational needs with employee preferences and constraints. This study proposes a fast-flexible strategy for employee scheduling, incorporating adjustable work hours within a specified range to address overstaffing and understaffing issues. The approach employs a pairwise-allocated strategy and a proficiency average matrix to enhance scheduling efficiency and effectiveness. Experimental results demonstrate improved performance in terms of computational speed and solution quality, making the method suitable for resource-constrained environments such as mobile devices. The strategy is particularly relevant for dynamic industries like hospitality, where part-time worker scheduling demands flexibility and responsiveness.",
+    "author": "Chen, Hao and Yang, Zhiming and Zhao, Zhongwei and Li, Xin and Wang, Jing and Huang, Yanping",
+    "doi": "10.1038/s41598-024-56745-4",
+    "journal": "Scientific Reports",
+    "keywords": "type:article, employee_scheduling, optimization, computational_intelligence, mobile_computing, part-time_workers",
+    "number": "1",
+    "publisher": "Nature Publishing Group",
+    "series": "Sci Rep",
+    "title": "A fast-flexible strategy based approach for employee scheduling problem",
+    "type": "article",
+    "url": "https://doi.org/10.1038/s41598-024-56745-4",
+    "volume": "14",
+    "year": "2024",
+    "series": "s41598"
     }
 }});

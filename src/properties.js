@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'SurVis Collection: Intelligent Optimization on Smartphones for Scheduling Part-Time Workers';
 
 /**
  * Relative path to the data directory
